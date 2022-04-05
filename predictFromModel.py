@@ -66,9 +66,24 @@ class prediction:
                     else:
                         predictions.append('Y')
 
+
             final= pd.DataFrame(list(zip(predictions)),columns=['Predictions'])
+
+
+
             path="Prediction_Output_File/Predictions.csv"
             final.to_csv("Prediction_Output_File/Predictions.csv",header=True,mode='a+') #appends result to prediction file
+
+            #data.to_csv("Prediction_Output_File/data.csv", header=True,mode='a+')
+
+            #a = pd.read_csv("Prediction_Output_File/data.csv")
+            #b = pd.read_csv("Prediction_Output_File/Predictions.csv")
+
+            #df = pd.concat([a,b],axis=0, ignore_index=True)
+            #df.to_csv("Prediction_Output_File/ipandop.csv", header=True,mode='a+' )
+
+
+
             self.log_writer.log(self.file_object,'End of Prediction')
         except Exception as ex:
             self.log_writer.log(self.file_object, 'Error occured while running the prediction!! Error:: %s' % ex)
