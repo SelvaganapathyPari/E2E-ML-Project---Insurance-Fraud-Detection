@@ -5,6 +5,7 @@ Click==7.0
 colorhash==1.0.2
 configparser==4.0.2
 cycler==0.10.0
+Cython==0.28.5
 Flask==1.1.1
 Flask-Cors==3.0.8
 Flask-MonitoringDashboard==3.0.6
@@ -31,7 +32,7 @@ pytz==2019.3
 PyYAML==5.3
 regexp==0.1
 scikit-learn==0.22.1
-scipy
+scipy==1.5.4
 six==1.14.0
 sklearn==0.0
 sklearn-pandas==1.8.0
