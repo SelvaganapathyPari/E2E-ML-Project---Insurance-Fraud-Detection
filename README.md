@@ -1,10 +1,16 @@
+![man-insurance-fraud]
 
 # End-to-End Machine Learning Project - Insurance Fraud Prediction
 
-In this Machine Learning project, we will deal with a problem statement addressed by an insurance company, in which we need to detect fraudulent insurance applications and route them to manual inspection, while moving the rest for approval. 
+## Problem Statement -
+To build a classification methodology using Machine Learning predictive model, to determine whether a customer is placing a fraudulent motor insurance claim.
+ Predictions
+Y – means fraudulent detected and needs further manual inspection
+N – Approved for processing insurance claim.
 
 I intend to create a machine learning project that is close to production level, which means adhering to all of the documentation and pipelines highlighted below. 
 
+![Mlproject](https://user-images.githubusercontent.com/102349366/163940856-bcd287d8-90eb-4138-8444-cb1efb9ef8fc.gif)
 
 ## 1. DSA - Data Sharing Agreement 
 Agreement between client and the company 
@@ -63,9 +69,9 @@ Agreement between client and the company
 #### 7. Test the Model
 #### 8. Serve the Model or model Deployment
 
+## Project Architecture
 
-
-
+![Architecture](https://user-images.githubusercontent.com/102349366/163941083-3172c734-b915-4c5f-9613-6796c4339b5c.gif)
 
 
 ## Deployment
@@ -75,4 +81,9 @@ To deploy this project, install requirements and run main
 ```bash
   Pip install -r requirements.txt
 ```
+## Predictions
+![frauddetection_op](https://user-images.githubusercontent.com/102349366/163940933-02ab4c50-09a0-423e-bfd0-a5b089b1fa02.jpg)
+
+## Dataset
+https://www.kaggle.com/code/buntyshah/insurance-fraud-claims-detection
 

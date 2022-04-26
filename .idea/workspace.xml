@@ -4,7 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1088a82e-4b30-4c49-9970-cedf6cd50414" name="Default Changelist" comment="first commit" />
+    <list default="true" id="1088a82e-4b30-4c49-9970-cedf6cd50414" name="Default Changelist" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/Prediction_Output_File/Outputfile.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/Architecture.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/Mlproject.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/frauddetection_op.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/documentation/man-insurance-fraud.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/fraudDetection.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fraudDetection.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Database/Prediction.db" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Database/Prediction.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DataBaseConnectionLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/DataBaseConnectionLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DbInsertLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/DbInsertLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/DbTableCreateLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/DbTableCreateLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/ExportToCsv.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/ExportToCsv.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/GeneralLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/GeneralLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/Prediction_Log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/Prediction_Log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/columnValidationLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/columnValidationLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/dataTransformLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/dataTransformLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/missingValuesInColumn.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/missingValuesInColumn.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/nameValidationLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction_Logs/nameValidationLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prediction_Logs/valuesfromSchemaValidationLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/DataBaseConnectionLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/DbInsertLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/DbTableCreateLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/ExportToCsv.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/GeneralLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/ModelTrainingLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/Training_Main_Log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/columnValidationLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/dataTransformLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/missingValuesInColumn.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/nameValidationLog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Training_Logs/valuesfromSchemaValidationLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Training_Logs/valuesfromSchemaValidationLog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documentation/fraudDetection.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_monitoringdashboard.db" beforeDir="false" afterPath="$PROJECT_DIR$/flask_monitoringdashboard.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fraudDetection - Shortcut.lnk" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
